@@ -1,2 +1,2 @@
-# translator_API
-A simple API to Translate
+# dictionary_API
+A simple dictionary API 
